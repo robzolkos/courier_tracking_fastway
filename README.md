@@ -39,22 +39,26 @@ A valid result will return a response like
     activity: [{
             date: 'Sep 22, 2017',
             time: '1:15pm',
-            action: 'Passed to local delivery agent'
+            action: 'Passed to local delivery agent',
+            location: 'Australia'
         },
         {
             date: 'Sep 22, 2017',
             time: '1:15pm',
-            action: 'Passed to local delivery agent'
+            action: 'Passed to local delivery agent',
+            location: 'Australia'
         },
         {
             date: 'Sep 22, 2017',
             time: '1:13pm',
-            action: 'Passed to local delivery agent'
+            action: 'Passed to local delivery agent',
+            location: 'Australia'
         },
         {
             date: 'Sep 21, 2017',
             time: '4:00pm',
-            action: 'Picked Up'
+            action: 'Picked Up',
+            location: 'Australia'
         }
     ]
 }
