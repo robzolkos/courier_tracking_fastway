@@ -87,7 +87,7 @@ function transform(res) {
       time: isoDate.time,
       value: isoDate.value,
       action: parseAction(coupon.StatusDescription.trim()),
-      location: "Australia"
+      location: coupon.Name
     };
 
     if (coupon.Type.indexOf("P") != -1) {

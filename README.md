@@ -40,25 +40,25 @@ A valid result will return a response like
             date: 'Sep 22, 2017',
             time: '1:15pm',
             action: 'Passed to local delivery agent',
-            location: 'Australia'
+            location: 'Sydney'
         },
         {
             date: 'Sep 22, 2017',
             time: '1:15pm',
             action: 'Passed to local delivery agent',
-            location: 'Australia'
+            location: 'Sydney'
         },
         {
             date: 'Sep 22, 2017',
             time: '1:13pm',
             action: 'Passed to local delivery agent',
-            location: 'Australia'
+            location: 'Melbourne'
         },
         {
             date: 'Sep 21, 2017',
             time: '4:00pm',
             action: 'Picked Up',
-            location: 'Australia'
+            location: 'Melbourne'
         }
     ]
 }
