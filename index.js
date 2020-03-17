@@ -18,7 +18,7 @@ function fetcher(api_key, connote, cb) {
   }
 
   const url =
-    "https://api.fastway.org/v3/tracktrace/detail.jsonraw?sortbytype=true&api_key=" +
+    "http://api.fastway.org/v3/tracktrace/detail.jsonraw?sortbytype=true&api_key=" +
     api_key +
     "&labelno=" +
     connote;
